@@ -1,0 +1,50 @@
+﻿@model Locacoes.Models.Veiculo
+
+@{
+    ViewData["Title"] = "Edição de Veículo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<h4>Veículo</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="AnoFabricacao" class="control-label"></label>
+                <input asp-for="AnoFabricacao" class="form-control" />
+                <span asp-validation-for="AnoFabricacao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Combustivel" class="control-label"></label>
+                <input asp-for="Combustivel" class="form-control" />
+                <span asp-validation-for="Combustivel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Kilometragem" class="control-label"></label>
+                <input asp-for="Kilometragem" class="form-control" />
+                <span asp-validation-for="Kilometragem" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ModeloId" class="control-label"></label>
+                <select asp-for="ModeloId" class="form-control" asp-items="ViewBag.ModeloId"></select>
+                <span asp-validation-for="ModeloId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Gravar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Retornar para a lista de veículos</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

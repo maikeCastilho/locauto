@@ -1,0 +1,66 @@
+﻿@model IEnumerable<Locacoes.Models.VeiculoLocado>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Veiculo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Locacao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataDevolucao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KilometragemInicial)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KilometragemFinal)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ValorDiaria)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Veiculo.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Locacao.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataDevolucao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KilometragemInicial)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KilometragemFinal)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ValorDiaria)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

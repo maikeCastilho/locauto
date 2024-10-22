@@ -1,0 +1,179 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Locacoes
+build_property.RootNamespace = Locacoes
+build_property.ProjectDir = C:\PROJETOS\LocAuto\Locacoes\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\PROJETOS\LocAuto\Locacoes
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Cliente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Cliente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Cliente/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Cliente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Fabricante/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFicmljYW50ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Fabricante/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFicmljYW50ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Fabricante/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFicmljYW50ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Fabricante/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFicmljYW50ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Fabricante/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFicmljYW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Fabricante/_ComModelo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFicmljYW50ZVxfQ29tTW9kZWxvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Locacao/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWNhb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Locacao/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWNhb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Locacao/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWNhb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Locacao/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWNhb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Locacao/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWNhb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Modelo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Modelo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Modelo/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Modelo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Modelo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kZWxvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/VeiculoLocado/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb0xvY2Fkb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/VeiculoLocado/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb0xvY2Fkb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/VeiculoLocado/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb0xvY2Fkb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/VeiculoLocado/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb0xvY2Fkb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/VeiculoLocado/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb0xvY2Fkb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Veiculo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Veiculo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Veiculo/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Veiculo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Veiculo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVpY3Vsb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/PROJETOS/LocAuto/Locacoes/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-yrlp6h6r9r
